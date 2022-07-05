@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+E:\java\install_eclipse\MavenUtility\src\main\java\chuzhou\.metadata\.plugins\org.eclipse.jdt.core
